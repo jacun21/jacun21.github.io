@@ -35,11 +35,8 @@ social:
   email: jcunha1@bu.edu 
   links:
     # The first element serves as the copyright owner's link
-    - hhttps://github.com/jacun21 # change to your Twitter homepage
-    - www.linkedin.com/in/jason-cunha-a2940819b # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - hhttps://github.com/jacun21 
+    - www.linkedin.com/in/jason-cunha-a2940819b #
 
 # Site Verification Settings
 webmaster_verifications:
