@@ -3,7 +3,7 @@ layout: page
 title: "About Me"  
 permalink: /about-me/  
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 
