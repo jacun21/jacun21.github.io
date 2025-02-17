@@ -10,6 +10,19 @@ Here are some of the projects I have worked on. Feel free to explore them!
 
 ---
 
+---
+# Table of Contents
+
+- [Bioinformatics](#bioinformatics)
+
+- [Water Quality and Watershed Science](#water-quality-and-watershed-science)
+
+---
+
+---
+
+## Bioinformatics
+
 ### Mitoproximal Proteins Database
 
 - **Description**: A web application and MySQL database featuring proteins associated with mitochondrial function, identified using bioinformatics techniques by Leyfer and Fetterman [(NAR Genomics and Bioinformatics, 2023)](https://doi.org/10.1093/nargab/lqad107). This project was co-developed with Nathaniel Fisher, Sihan (Iris) Xu, and Christian Landaverde as part of the Biological Databases course (BF768, Spring 2024) at Boston University, taught by Dr. Gary Benson. 
@@ -19,8 +32,19 @@ Here are some of the projects I have worked on. Feel free to explore them!
 - **Link**: [MitoProximal Protein Database](https://mitoproximalproteindatabase.pythonanywhere.com)
 
 ---
+### Rosalind Bioinformatics Challenges
+
+- **Description**: A series of bioinformatics challenges completed through the Rosalind platform, focusing on real-world problems like sequence alignment and genome assembly using Python. Completed for extra credit as part of the Applications in Bioinformatics (BF527, Fall 2023) course at Boston University, taught by Dr. Dmitri Leyfer.
+
+- **Tools Used**: Python, Jupyter Notebook
+
+- **Github Repo**: [Rosalind Bioinformatics Challenges](https://github.com/jacun21/Rosalind-Bioinformatics-Challenges.git)
 
 ---
+
+---
+
+## Water Quality and Watershed Science
 
 ### An Exploration of Water Quality Metrics in and Around Environmental Justice Neighborhoods in Massachusetts
 
@@ -31,16 +55,5 @@ Here are some of the projects I have worked on. Feel free to explore them!
 - **Tools Used**: ArcGIS Pro, R, glmmTMB library, R Markdown
 
 - **Github Repo**: [MA Environmental Justice Neighborhoods Water Quality Project](https://github.com/jacun21/BF510_Water_Quality_Final_Project.git)
-
----
-
----
-### Rosalind Bioinformatics Challenges
-
-- **Description**: A series of bioinformatics challenges completed through the Rosalind platform, focusing on real-world problems like sequence alignment and genome assembly using Python. Completed for extra credit as part of the Applications in Bioinformatics (BF527, Fall 2023) course at Boston University, taught by Dr. Dmitri Leyfer.
-
-- **Tools Used**: Python, Jupyter Notebook
-
-- **Github Repo**: [Rosalind Bioinformatics Challenges](https://github.com/jacun21/Rosalind-Bioinformatics-Challenges.git)
 
 ---
