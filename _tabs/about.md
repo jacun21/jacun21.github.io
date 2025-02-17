@@ -1,15 +1,13 @@
 ---
 layout: page
-Title: About Me
-permalink: /about me/
+title: "About Me"  
+permalink: /about-me/  
 icon: fas fa-info-circle
 order: 4
 ---
 
+
 ---
-
-## About Me
-
 Hello! My name is Jason, and I am currently a Bioinformatics Analyst in the Integrative Cardiovascular Metabolism and Pathophysiology (iCaMP) Laboratory at the Boston University Chobanian & Avedisian School of Medicine. My work focuses on applying bioinformatics and statistical techniques to explore the role of mitochondrial genetics in cardiovascular disease, particularly within large cohorts such as the Framingham Heart Study, UK Biobank, and the All of Us Study.
 
 Previously, I served as a Post-Baccalaureate IRTA Research Fellow at the National Heart, Lung, and Blood Institute. During this time, I contributed to several projects, including a study on platelet reactivity and arterial stiffness measures, and a Transcriptome-Wide Association Study (TWAS) on heavy menstrual bleeding.
@@ -83,8 +81,17 @@ Aggregation Assay, Light Microscopy, Phase Contrast Microscopy
 
 --- 
 
-## Projects
+<!-- ---
 
---- 
+## Timeline
 
-## Contact Me
+<div align="center">
+{% include jekyll-timeline.html 
+   startYear=2010 
+   timelineHeight=600 
+   col1Title="My Experience"
+   col1Events=page.timelineEvents 
+%}
+</div>
+
+--- -->
