@@ -10,7 +10,7 @@ order: 5
 
 # Table of Contents
 
-<nav class="nav nav-pills">
+<nav class="nav nav-pills justify-content-center">
   <a class="nav-link" href="#about-me">About Me</a>
   <a class="nav-link" href="#education">Education</a>
   <a class="nav-link" href="#skills">Skills</a>
@@ -166,19 +166,3 @@ ORCID: [0009-0005-7909-8809](https://orcid.org/0009-0005-7909-8809)
 5. Pashek, RE, Nkambule, BB, Chan, MV, Thibord, F, Lachapelle, A, **Cunha, JA**, Chen, M-H, Johnson, AD (2023). Alcohol intake including wine drinking is associated with decreased platelet reactivity in a large population sample. *International Journal of Epidemiology*, 52(6): p.1939-1950. [PMID: 37431613](https://pubmed.ncbi.nlm.nih.gov/37431613), [PMCID: PMC10749750](https://pubmed.ncbi.nlm.nih.gov/PMC10749750)
 
 
-
-
-<!-- ---
-
-## Timeline
-
-<div align="center">
-{% include jekyll-timeline.html 
-   startYear=2010 
-   timelineHeight=600 
-   col1Title="My Experience"
-   col1Events=page.timelineEvents 
-%}
-</div>
-
---- -->
