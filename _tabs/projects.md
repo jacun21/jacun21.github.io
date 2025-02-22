@@ -12,7 +12,7 @@ Here are some of the projects I have worked on. Feel free to explore them!
 
 # Table of Contents
 
-<nav class="nav nav-pills">
+<nav class="nav nav-pills justify-content-center">
   <a class="nav-link" href="#bioinformatics">Bioinformatics</a>
   <a class="nav-link" href="#water-quality-and-watershed-science">Water Quality and Watershed Science</a>
 </nav>
@@ -33,6 +33,8 @@ Here are some of the projects I have worked on. Feel free to explore them!
       This project was co-developed with Nathaniel Fisher, Sihan (Iris) Xu, and Christian Landaverde as part of the Biological Databases course (BF768, Spring 2024) at Boston University, taught by Dr. Gary Benson. 
     </p>
     <a href="https://mitoproximalproteindatabase.pythonanywhere.com" class="btn btn-primary">View Project</a>
+    <br>
+    <br>
     <div class="mitoproximal-db-badge-container">
       <h6 class="mitoproximal-db-badge-title">Tools Used:</h6>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -44,6 +46,7 @@ Here are some of the projects I have worked on. Feel free to explore them!
   </div>
 </div>
 
+---
 
 ### Rosalind Bioinformatics Challenges
 
@@ -55,6 +58,8 @@ Here are some of the projects I have worked on. Feel free to explore them!
       A series of bioinformatics challenges completed through the Rosalind platform, focusing on real-world problems like sequence alignment and genome assembly using Python. Completed for extra credit as part of the Applications in Bioinformatics (BF527, Fall 2023) course at Boston University, taught by Dr. Dmitri Leyfer. 
     </p>
     <a href="https://github.com/jacun21/Rosalind-Bioinformatics-Challenges.git" class="btn btn-primary">View Github Repo</a>
+    <br>
+    <br>
     <div class="rosalind-badge-container">
       <h6 class="rosalind-badge-title">Tools Used:</h6>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -68,7 +73,6 @@ Here are some of the projects I have worked on. Feel free to explore them!
 ## Water Quality and Watershed Science
 
 
-
 <div class="ma-ej-wq-card">
   <div class="ma-ej-wq-card-body">
     <h4 class="ma-ej-wq-card-title">An Exploration of Water Quality Metrics in and Around Environmental Justice Neighborhoods in Massachusetts</h4>
@@ -80,6 +84,8 @@ Here are some of the projects I have worked on. Feel free to explore them!
     The findings suggest potential water quality disparities that disproportionately affect minority populations, highlighting the need for further research into environmental inequities in Massachusetts. This project was completed as part of the Institutional Racism in Science and Health course (BF510, Fall 2024) at Boston University, taught by Dr. Melisa Osborne.
     </p>
     <a href="https://github.com/jacun21/BF510_Water_Quality_Final_Project.git" class="btn btn-primary">View Github Repo</a>
+    <br>
+    <br>
     <div class="ma-ej-wq-badge-container">
       <h6 class="ma-ej-wq-badge-title">Tools Used:</h6>
       <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
@@ -88,3 +94,5 @@ Here are some of the projects I have worked on. Feel free to explore them!
       <img src="https://img.shields.io/badge/R%20Markdown-2C6CB6?style=flat&logo=r&logoColor=white">
   </div>
 </div>
+
+---
