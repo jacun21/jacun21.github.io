@@ -10,27 +10,18 @@ order: 5
 
 # Table of Contents
 
-- [About Me](#about-me)
-
-- [Education](#education)
-
-- [Skills](#skills)
-
-- [Research Experience](#research-experience)
-
-- [Teaching Experience](#teaching-experience)
-
-- [Leadership Experience](#leadership-experience)
-
-- [Volunteer Experience](#volunteer-experience)
-
-- [Community Outreach Experience](#community-outreach-experience)
-
-- [Awards and Honors](#awards-and-honors)
-
-- [Publications](#publications)
-
----
+<nav class="nav nav-pills">
+  <a class="nav-link" href="#about-me">About Me</a>
+  <a class="nav-link" href="#education">Education</a>
+  <a class="nav-link" href="#skills">Skills</a>
+  <a class="nav-link" href="#research-experience">Research Experience</a>
+  <a class="nav-link" href="#teaching-experience">Teaching Experience</a>
+  <a class="nav-link" href="#leadership-experience">Leadership Experience</a>
+  <a class="nav-link" href="#volunteer-experience">Volunteer Experience</a>
+  <a class="nav-link" href="#Volunteer Experience">Volunteer Experience</a>
+  <a class="nav-link" href="#awards-and-honors">Awards and Honors</a>
+  <a class="nav-link" href="#publications">Publications</a>
+</nav>
 
 ---
 ## About Me
@@ -42,8 +33,6 @@ Previously, I served as a Post-Baccalaureate IRTA Research Fellow at the Nationa
 Beyond my professional pursuits, I am passionate about water quality monitoring and watershed conservation. I volunteer with OARS, a non-profit organization committed to protecting and monitoring the Sudbury, Concord, and Assabet Rivers and their tributaries. Through this volunteer work, I’ve gained hands-on experience with water quality monitoring techniques and developed a strong dedication to local sustainability and conservation efforts.
 
 My combined experiences in bioinformatics and environmental conservation reflect my desire to apply computational tools not only to human health but also to environmental protection and sustainability.
- 
----
 
 ---
  
@@ -53,8 +42,6 @@ My combined experiences in bioinformatics and environmental conservation reflect
     - Master of Science, Bioinformatics, December 2024
 - **College of the Holy Cross, Worcester, MA**
     - Bachelor of Arts, Biology, Minor in Creative Writing, May 2021
-
----
 
 ---
 
@@ -74,8 +61,6 @@ Galaxy (bioinformatics analysis platform)
 - PCR Amplification, Dot Blot Assay, Light Transmission Aggregometry, Optimul Platelet
 Aggregation Assay, Light Microscopy, Phase Contrast Microscopy
 
---- 
-
 ---
 
 ## Research Experience
@@ -91,7 +76,6 @@ Mentors: Jessica L. Fetterman, PhD, FAHA and Deepa M. Gopal, MD, MS
 - Apply statistical techniques to analyze metabolomic signatures in post-mortem cardiac samples from donors with hypertension and normotension
 - Co-developed and deployed an interactive web application to facilitate access to proteins associated with mitochondrial function, based on a publication by Leyfer and Fetterman (doi.org/10.1093/nargab/lqad107): [MitoProximal Protein Database](https://mitoproximalproteindatabase.pythonanywhere.com)
 
----
 
 ### National Heart, Lung, and Blood Institute, National Institutes of Health  
 **The Framingham Heart Study**, Framingham, MA  
@@ -102,7 +86,6 @@ Mentor: Andrew D. Johnson, PhD, FAHA
 - Conducted a Transcriptome-Wide Association Study (TWAS) on heavy menstrual bleeding among top GWAS meta-analysis results involving >34,000 cases and >351,000 controls of European ancestry
 - Performed assays measuring platelet reactivity in response to various agonists in plasma samples from >200 participants
 
----
 
 ### College of the Holy Cross, Worcester, MA  
 **Biology Research Assistant**, September 2020-May 2021  
@@ -114,8 +97,6 @@ Mentor: Robert Bellin, PhD
 
 ---
 
----
-
 ## Teaching Experience
 
 ### College of the Holy Cross, Worcester, MA  
@@ -123,14 +104,10 @@ Mentor: Robert Bellin, PhD
 - Applied knowledge gained from introductory coursework to assist ~20 underclassmen each week with laboratory activities.  
 - Prepared preserved animal specimens, as well as cell and plant histological displays for weekly laboratory meetings for ~13 weeks each semester.
 
----
-
 ### Claremont Academy, Worcester, MA  
 **Mathematics Tutor**, January 2019-May 2019  
 - Offered tutoring services to ~10 tenth-grade Spanish-speaking students for two hours per week.  
 - Prepared students in introductory geometry, algebra, and statistics for the MCAS standardized test.
-
----
 
 ---
 
@@ -143,8 +120,6 @@ Mentor: Robert Bellin, PhD
 
 ---
 
----
-
 ## Community Outreach Experience
 
 ### College of the Holy Cross, Worcester, MA  
@@ -152,14 +127,11 @@ Mentor: Robert Bellin, PhD
 - Compiled and dispersed information regarding alcohol and drug use to the student body.  
 - Participated in on-campus responsible substance use education programs.
 
----
 
 ### College of the Holy Cross, Worcester, MA  
 **Holy Cross Science Ambassadors, Member**, January 2018-May 2021  
 - Organized and executed scientific demonstrations at local elementary and middle schools.  
 - Attended meetings to organize programs during the academic year.
-
----
 
 ---
 
@@ -171,14 +143,11 @@ Mentor: Robert Bellin, PhD
 - Conduct yearly river cleaning activities with other OARS volunteers.
 
 ---
----
 
 ## Awards and Honors
 
 **College of the Holy Cross, Worcester, MA**
 - Dean's List, 2018-2020
-
----
 
 ---
 
