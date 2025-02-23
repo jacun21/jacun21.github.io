@@ -48,8 +48,6 @@ Here are some of the projects I have worked on. Feel free to explore them!
 
 ---
 
-### Rosalind Bioinformatics Challenges
-
 <div class="rosalind-card">
   <div class="rosalind-card-body">
     <h4 class="rosalind-card-title">Rosalind Bioinformatics Challenges</h4>
@@ -94,5 +92,3 @@ Here are some of the projects I have worked on. Feel free to explore them!
       <img src="https://img.shields.io/badge/R%20Markdown-2C6CB6?style=flat&logo=r&logoColor=white">
   </div>
 </div>
-
----
