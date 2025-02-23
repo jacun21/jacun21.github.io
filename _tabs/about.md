@@ -26,143 +26,204 @@ order: 5
 ---
 ## About Me
 
-Hello! My name is Jason, and I am currently a Bioinformatics Analyst in the Integrative Cardiovascular Metabolism and Pathophysiology (iCaMP) Laboratory at the Boston University Chobanian & Avedisian School of Medicine. My work focuses on applying bioinformatics and statistical techniques to explore the role of mitochondrial genetics in cardiovascular disease, particularly within large cohorts such as the Framingham Heart Study, UK Biobank, and the All of Us Study.
-
-Previously, I served as a Post-Baccalaureate IRTA Research Fellow at the National Heart, Lung, and Blood Institute. During this time, I contributed to several projects, including a study on platelet reactivity and arterial stiffness measures, and a Transcriptome-Wide Association Study (TWAS) on heavy menstrual bleeding.
-
-Beyond my professional pursuits, I am passionate about water quality monitoring and watershed conservation. I volunteer with OARS, a non-profit organization committed to protecting and monitoring the Sudbury, Concord, and Assabet Rivers and their tributaries. Through this volunteer work, I’ve gained hands-on experience with water quality monitoring techniques and developed a strong dedication to local sustainability and conservation efforts.
-
-My combined experiences in bioinformatics and environmental conservation reflect my desire to apply computational tools not only to human health but also to environmental protection and sustainability.
+<div class="about-me-card">
+  <div class="about-me-card-body">
+    <h4 class="about-me-card-title">Hello, I'm Jason!</h4>
+    <p class="about-me-card-text">
+      I am currently a Bioinformatics Analyst at the Integrative Cardiovascular Metabolism and Pathophysiology (iCaMP) Laboratory at Boston University. My work focuses on mitochondrial genetics and cardiovascular disease, leveraging bioinformatics tools to analyze data from large cohorts like the Framingham Heart Study and UK Biobank.
+      <br><br>
+      Before this role, I was a Post-Baccalaureate IRTA Research Fellow at the National Heart, Lung, and Blood Institute. There, I contributed to studies on platelet reactivity and arterial stiffness measures, along with a Transcriptome-Wide Association Study on heavy menstrual bleeding.
+      <br><br>
+      Beyond my professional work, I am passionate about water quality monitoring and watershed conservation. I volunteer with OARS, an organization dedicated to protecting and monitoring rivers in Massachusetts, where I gained hands-on experience in water quality monitoring techniques.
+      <br><br>
+      My goal is to apply computational tools not only to human health but also to environmental sustainability.
+    </p>
+  </div>
+</div>
 
 ---
- 
+
 ## Education
 
-- **Boston University Faculty of Computing & Data Sciences, Boston, MA**
-    - Master of Science, Bioinformatics, December 2024
-- **College of the Holy Cross, Worcester, MA**
-    - Bachelor of Arts, Biology, Minor in Creative Writing, May 2021
+<div class="education-card">
+  <div class="education-card-body">
+    <h4 class="education-card-title">Education</h4>
+    <ul class="education-card-list">
+      <li><strong>Boston University Faculty of Computing & Data Sciences</strong> - Master of Science, Bioinformatics, December 2024</li>
+      <li><strong>College of the Holy Cross, Worcester, MA</strong> - Bachelor of Arts, Biology, Minor in Creative Writing, May 2021</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ## Skills
 
-### Data Science and Bioinformatics Skills 
-- Python, R, Git, Docker, ImageJ, FUSION (TWAS and RWAS tools suite),
-Galaxy (bioinformatics analysis platform)
-
-### Programming Skills 
-- HTML, Javascript, Cascading Style Sheets (CSS), MySQL, Bash
-
-### GIS and Mapping Skills
-- ArcGIS Pro
-
-### Laboratory Skills  
-- PCR Amplification, Dot Blot Assay, Light Transmission Aggregometry, Optimul Platelet
-Aggregation Assay, Light Microscopy, Phase Contrast Microscopy
+<div class="skills-card">
+  <div class="skills-card-body">
+    <h4 class="skills-card-title">Skills</h4>
+    <h6 class="skills-card-subtitle">Data Science and Bioinformatics</h6>
+    <p class="skills-card-text">
+      Python, R, Git, Docker, ImageJ, FUSION (TWAS and RWAS tools suite), Galaxy (bioinformatics analysis platform)
+    </p>
+    <h6 class="skills-card-subtitle">Programming</h6>
+    <p class="skills-card-text">
+      HTML, Javascript, Cascading Style Sheets (CSS), MySQL, Bash
+    </p>
+    <h6 class="skills-card-subtitle">GIS and Mapping</h6>
+    <p class="skills-card-text">
+      ArcGIS Pro
+    </p>
+    <h6 class="skills-card-subtitle">Laboratory Skills</h6>
+    <p class="skills-card-text">
+      PCR Amplification, Dot Blot Assay, Light Transmission Aggregometry, Optimul Platelet Aggregation Assay, Light Microscopy, Phase Contrast Microscopy
+    </p>
+  </div>
+</div>
 
 ---
 
 ## Research Experience
 
-### Integrative Cardiovascular Metabolism and Pathophysiology (iCaMP) Laboratory
-**Boston University Chobanian & Avedisian School of Medicine**, Boston, MA  
-**Data Analyst II**, January 2024-Present  
-Mentors: Jessica L. Fetterman, PhD, FAHA and Deepa M. Gopal, MD, MS
+<div class="research-experience-card">
+  <div class="research-experience-card-body">
+    <h4 class="research-experience-card-title">Research Experience</h4>
+    <div class="research-experience">
+      <h5>Integrative Cardiovascular Metabolism and Pathophysiology (iCaMP) Laboratory</h5>
+      <p><strong>Boston University Chobanian & Avedisian School of Medicine</strong> | Data Analyst II | January 2024-Present</p>
+      <ul>
+        <li>Develop bioinformatics pipelines for mitochondrial genetic variant identification in large-scale genome sequencing datasets.</li>
+        <li>Analyze genetic associations with cardiovascular traits such as ECG measures and atrial fibrillation.</li>
+        <li>Collaborate in the creation of an interactive web application for mitochondrial protein data.</li>
+      </ul>
+    </div>
 
-- Adapt and use a bioinformatic pipeline to identify mitochondrial genetic variants in whole genome sequencing datasets
-- Design and implement statistical models to analyze longitudinal and cross-sectional associations of mitochondrial genetic variants with ECG measures, and prevalent and incident atrial fibrillation in the Framingham Heart Study and other large cohorts, including All of Us (NIH)
-- Develop and apply statistical models to assess interactions of genetic variants in mitochondrial genes across both the mitochondrial and nuclear genomes with circulating metabolite signatures, echocardiographic and cardiac MRI traits, and heart failure subtypes
-- Apply statistical techniques to analyze metabolomic signatures in post-mortem cardiac samples from donors with hypertension and normotension
-- Co-developed and deployed an interactive web application to facilitate access to proteins associated with mitochondrial function, based on a publication by Leyfer and Fetterman (doi.org/10.1093/nargab/lqad107): [MitoProximal Protein Database](https://mitoproximalproteindatabase.pythonanywhere.com)
-
-
-### National Heart, Lung, and Blood Institute, National Institutes of Health  
-**The Framingham Heart Study**, Framingham, MA  
-**Post-Baccalaureate IRTA Research Fellow**, June 2021-July 2023  
-Mentor: Andrew D. Johnson, PhD, FAHA
-
-- Published a research project in *Platelets* that found trends for associations of platelet reactivity with arterial calcium burden, aortic diameter, and vascular stiffness among selected Framingham Heart Study cohorts ([PMID: 37609998](https://pubmed.ncbi.nlm.nih.gov/37609998))
-- Conducted a Transcriptome-Wide Association Study (TWAS) on heavy menstrual bleeding among top GWAS meta-analysis results involving >34,000 cases and >351,000 controls of European ancestry
-- Performed assays measuring platelet reactivity in response to various agonists in plasma samples from >200 participants
-
-
-### College of the Holy Cross, Worcester, MA  
-**Biology Research Assistant**, September 2020-May 2021  
-Mentor: Robert Bellin, PhD
-
-- Prepared media and solutions, maintained 3T3 fibroblast and NMuMG epithelial cell lines, and constructed EpiChip microfluidic mammary duct models for experimental use
-- Developed a protocol with lab members to grow fibroblast and epithelial cell cultures in a hydrogel matrix within the EpiChip microfluidic platform, mitigating the experimental difficulties of using a typical collagen matrix
-- Used the EpiChip microfluidic platform protocol that I developed with the team to study the role
+    <div class="research-experience">
+      <h5>National Heart, Lung, and Blood Institute</h5>
+      <p><strong>The Framingham Heart Study</strong> | Post-Baccalaureate IRTA Research Fellow | June 2021-July 2023</p>
+      <ul>
+        <li>Published research on platelet reactivity and its links to vascular stiffness.</li>
+        <li>Contributed to a large-scale Transcriptome-Wide Association Study on heavy menstrual bleeding.</li>
+        <li>Performed extensive platelet reactivity assays with over 200 participants.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
 ## Teaching Experience
 
-### College of the Holy Cross, Worcester, MA  
-**Laboratory Teacher’s Assistant**, January 2020-May 2021  
-- Applied knowledge gained from introductory coursework to assist ~20 underclassmen each week with laboratory activities.  
-- Prepared preserved animal specimens, as well as cell and plant histological displays for weekly laboratory meetings for ~13 weeks each semester.
+<div class="teaching-experience-card">
+  <div class="teaching-experience-card-body">
+    <h4 class="teaching-experience-card-title">Teaching Experience</h4>
+    <h5>Laboratory Teacher’s Assistant</h5>
+    <p><strong>College of the Holy Cross, Worcester, MA</strong> | January 2020-May 2021</p>
+    <ul>
+      <li>Assisted ~20 undergraduates with laboratory activities and specimen preparation.</li>
+      <li>Led weekly discussions on experimental techniques and data analysis.</li>
+    </ul>
 
-### Claremont Academy, Worcester, MA  
-**Mathematics Tutor**, January 2019-May 2019  
-- Offered tutoring services to ~10 tenth-grade Spanish-speaking students for two hours per week.  
-- Prepared students in introductory geometry, algebra, and statistics for the MCAS standardized test.
+    <h5>Mathematics Tutor</h5>
+    <p><strong>Claremont Academy, Worcester, MA</strong> | January 2019-May 2019</p>
+    <ul>
+      <li>Tutored ~10 Spanish-speaking students in mathematics, focusing on problem-solving strategies.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ## Leadership Experience
 
-### National Institutes of Health, Remote  
-**Science, Technology, and Society Interest Group, Co-Leader**, August 2022-July 2023  
-- Facilitated bi-weekly meetings to discuss topics relevant to biomedical research, technological developments, and the sociopolitical and socioeconomic implications of these technological developments.  
-- Coordinated outreach events and collaborations with other post-baccalaureate fellow interest groups.
+
+<div class="leadership-experience-card">
+  <div class="leadership-experience-card-body">
+    <h4 class="leadership-experience-card-title">Leadership Experience</h4>
+    <h5>National Institutes of Health, Remote </h5>
+    <p><strong>Science, Technology, and Society Interest Group, Co-Leader</strong> | August 2022-July 2023</p>
+    <ul>
+      <li>Facilitated bi-weekly meetings to discuss topics relevant to biomedical research, technological developments, and the sociopolitical and socioeconomic implications of these technological developments.</li>
+      <li>Coordinated outreach events and collaborations with other post-baccalaureate fellow interest groups.</li>
+    </ul>
+
+    <h5>Mathematics Tutor</h5>
+    <p><strong>Claremont Academy, Worcester, MA</strong> | January 2019-May 2019</p>
+    <ul>
+      <li>Tutored ~10 Spanish-speaking students in mathematics, focusing on problem-solving strategies.</li>
+    </ul>
+  </div>
+</div>
+
 
 ---
 
-## Community Outreach Experience
+<div class="community-outreach-card">
+  <div class="community-outreach-card-header">
+    <h3>Community Outreach Experience</h3>
+  </div>
+  <div class="community-outreach-card-body">
+    <h5>College of the Holy Cross, Worcester, MA</h5>
+    <p><strong>Students for Responsible Choices, Member</strong>, October 2019-May 2021</p>
+    <ul>
+      <li>Compiled and dispersed information regarding alcohol and drug use to the student body.</li>
+      <li>Participated in on-campus responsible substance use education programs.</li>
+    </ul>
+    
+    <h5>College of the Holy Cross, Worcester, MA</h5>
+    <p><strong>Holy Cross Science Ambassadors, Member</strong>, January 2018-May 2021</p>
+    <ul>
+      <li>Organized and executed scientific demonstrations at local elementary and middle schools.</li>
+      <li>Attended meetings to organize programs during the academic year.</li>
+    </ul>
+  </div>
+</div>
 
-### College of the Holy Cross, Worcester, MA  
-**Students for Responsible Choices, Member**, October 2019-May 2021  
-- Compiled and dispersed information regarding alcohol and drug use to the student body.  
-- Participated in on-campus responsible substance use education programs.
+<hr>
 
+<div class="volunteer-experience-card">
+  <div class="volunteer-experience-card-header">
+    <h3>Volunteer Experience</h3>
+  </div>
+  <div class="volunteer-experience-card-body">
+    <h5>OARS - For the Sudbury, Assabet, and Concord Rivers, Concord, MA</h5>
+    <p><strong>Water Quality Monitoring Volunteer</strong>, September 2022-Present</p>
+    <ul>
+      <li>Collect water samples and quality measurements from ~6 sites along the Concord, Sudbury, and Assabet Rivers and connected tributaries on a monthly basis.</li>
+      <li>Conduct yearly river cleaning activities with other OARS volunteers.</li>
+    </ul>
+  </div>
+</div>
 
-### College of the Holy Cross, Worcester, MA  
-**Holy Cross Science Ambassadors, Member**, January 2018-May 2021  
-- Organized and executed scientific demonstrations at local elementary and middle schools.  
-- Attended meetings to organize programs during the academic year.
+<hr>
 
----
+<div class="awards-honors-card">
+  <div class="awards-honors-card-header">
+    <h3>Awards and Honors</h3>
+  </div>
+  <div class="awards-honors-card-body">
+    <h5>College of the Holy Cross, Worcester, MA</h5>
+    <ul>
+      <li>Dean's List, 2018-2020</li>
+    </ul>
+  </div>
+</div>
 
-## Volunteer Experience
+<hr>
 
-### OARS - For the Sudbury, Assabet, and Concord Rivers, Concord, MA  
-**Water Quality Monitoring Volunteer**, September 2022-Present  
-- Collect water samples and quality measurements from ~6 sites along the Concord, Sudbury, and Assabet Rivers and connected tributaries on a monthly basis.  
-- Conduct yearly river cleaning activities with other OARS volunteers.
-
----
-
-## Awards and Honors
-
-**College of the Holy Cross, Worcester, MA**
-- Dean's List, 2018-2020
-
----
-
-## Publications
-
-ORCID: [0009-0005-7909-8809](https://orcid.org/0009-0005-7909-8809)
-
-1. Milstone, ZJ, Moreira-Bouchard, JD, Smith, KK, Gower, AC, Alekseyev, A, **Cunha, JA**, Fisher, N, Legler, L, Lepson, J, Tao, BS, Williams, C, Benjamin, EJ, Levy, D, Mitchell, RN, Padera, RF, Shah, H, Choi, SH, Gopal, DM, Tucker, NR, Fetterman, JL (2025). Multiomics Investigation of the Hypertensive Human Heart. *Under review*.
-
-2. Thibord, F, **Cunha, JA**, Dzigurski, J, Huffman, JE, Gualdo, NP, Estonia Biobank Research Team, Cho, K, Wilson, PWF, Johnsen, JM, Chen, M-H, Laisk, T, Johnson, AD (2024). Genome-Wide Meta-Analysis of Heavy Menstrual Bleeding Reveals 33 Novel Genetic Loci. *Under review*.
-
-3. Moreira-Bouchard, JD, **Cunha, JA**, Tao, BS, Kim, H, Lepson, J, Nessen, E, Milstone, ZJ, Fisher, N, Clinton, N, Roberts, L, Serrano, M, Gopal, DM, Benjamin, EJ, So-Armah, K, Fetterman, JL (2024). Creating Diversity, Equity, Inclusion, and Accessibility Statements for Your CV: A Resource Guide to Effectiveness and Comprehensiveness. *Am J Physiol Heart Circ Physiol.*, 327(6):H1376-H1383. [PMID: 39485298](https://pubmed.ncbi.nlm.nih.gov/39485298)
-
-4. **Cunha, JA**, Chan, MV, Nkambule, BB, Thibord, F, Lachapelle, A, Pashek, RE, Vasan, RS, Rong, J, Benjamin, EJ, Hamburg, NM, Chen, M-H, Mitchell, GF, Johnson, AD (2023). Trends among platelet function, arterial calcium, and vascular function measures. *Platelets*, 34(1): p.2238835. [PMID: 37609998](https://pubmed.ncbi.nlm.nih.gov/37609998), [PMCID: PMC10947606](https://pubmed.ncbi.nlm.nih.gov/PMC10947606)
-
-5. Pashek, RE, Nkambule, BB, Chan, MV, Thibord, F, Lachapelle, A, **Cunha, JA**, Chen, M-H, Johnson, AD (2023). Alcohol intake including wine drinking is associated with decreased platelet reactivity in a large population sample. *International Journal of Epidemiology*, 52(6): p.1939-1950. [PMID: 37431613](https://pubmed.ncbi.nlm.nih.gov/37431613), [PMCID: PMC10749750](https://pubmed.ncbi.nlm.nih.gov/PMC10749750)
-
-
+<div class="publications-card">
+  <div class="publications-card-header">
+    <h3>Publications</h3>
+  </div>
+  <div class="publications-card-body">
+    <p><strong>ORCID:</strong> <a href="https://orcid.org/0009-0005-7909-8809" target="_blank">0009-0005-7909-8809</a></p>
+    
+    <ol>
+      <li>Milstone, ZJ, Moreira-Bouchard, JD, Smith, KK, Gower, AC, Alekseyev, A, <strong>Cunha, JA</strong>, Fisher, N, Legler, L, Lepson, J, Tao, BS, Williams, C, Benjamin, EJ, Levy, D, Mitchell, RN, Padera, RF, Shah, H, Choi, SH, Gopal, DM, Tucker, NR, Fetterman, JL (2025). Multiomics Investigation of the Hypertensive Human Heart. <em>Under review</em>.</li>
+      <li>Thibord, F, <strong>Cunha, JA</strong>, Dzigurski, J, Huffman, JE, Gualdo, NP, Estonia Biobank Research Team, Cho, K, Wilson, PWF, Johnsen, JM, Chen, M-H, Laisk, T, Johnson, AD (2024). Genome-Wide Meta-Analysis of Heavy Menstrual Bleeding Reveals 33 Novel Genetic Loci. <em>Under review</em>.</li>
+      <li>Moreira-Bouchard, JD, <strong>Cunha, JA</strong>, Tao, BS, Kim, H, Lepson, J, Nessen, E, Milstone, ZJ, Fisher, N, Clinton, N, Roberts, L, Serrano, M, Gopal, DM, Benjamin, EJ, So-Armah, K, Fetterman, JL (2024). Creating Diversity, Equity, Inclusion, and Accessibility Statements for Your CV: A Resource Guide to Effectiveness and Comprehensiveness. <em>Am J Physiol Heart Circ Physiol.</em>, 327(6):H1376-H1383. <a href="https://pubmed.ncbi.nlm.nih.gov/39485298" target="_blank">PMID: 39485298</a></li>
+      <li><strong>Cunha, JA</strong>, Chan, MV, Nkambule, BB, Thibord, F, Lachapelle, A, Pashek, RE, Vasan, RS, Rong, J, Benjamin, EJ, Hamburg, NM, Chen, M-H, Mitchell, GF, Johnson, AD (2023). Trends among platelet function, arterial calcium, and vascular function measures. <em>Platelets</em>, 34(1): p.2238835. <a href="https://pubmed.ncbi.nlm.nih.gov/37609998" target="_blank">PMID: 37609998</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/PMC10947606" target="_blank">PMCID: PMC10947606</a></li>
+      <li>Pashek, RE, Nkambule, BB, Chan, MV, Thibord, F, Lachapelle, A, <strong>Cunha, JA</strong>, Chen, M-H, Johnson, AD (2023). Alcohol intake including wine drinking is associated with decreased platelet reactivity in a large population sample. <em>International Journal of Epidemiology</em>, 52(6): p.1939-1950. <a href="https://pubmed.ncbi.nlm.nih.gov/37431613" target="_blank">PMID: 37431613</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/PMC10749750" target="_blank">PMCID: PMC10749750</a></li>
+    </ol>
+  </div>
+</div>
