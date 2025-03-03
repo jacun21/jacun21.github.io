@@ -3,5 +3,5 @@ layout: page
 title: "Blog"  
 permalink: /blog/  
 icon: fas fa-pencil-square
-order: 3
+order: 2
 ---
