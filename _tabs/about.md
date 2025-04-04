@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: "About Me"  
 permalink: /about-me/  
 icon: fas fa-info-circle
-order: 5
+order: 1
 ---
 
 ---

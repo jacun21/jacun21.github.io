@@ -3,7 +3,7 @@ layout: page
 title: "Featured Projects"
 permalink: /projects/
 icon: fas fa-wrench
-order: 3
+order: 2
 ---
 
 Here are some of the projects I have worked on. Feel free to explore them!
