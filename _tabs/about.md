@@ -3,7 +3,7 @@ layout: page
 title: "About Me"  
 permalink: /about-me/  
 icon: fas fa-info-circle
-order: 1
+order: 2
 ---
 
 ---
@@ -11,35 +11,16 @@ order: 1
 # Table of Contents
 
 <nav class="nav nav-pills justify-content-center">
-  <a class="nav-link" href="#about-me">About Me</a>
   <a class="nav-link" href="#education">Education</a>
   <a class="nav-link" href="#skills">Skills</a>
   <a class="nav-link" href="#research-experience">Research Experience</a>
   <a class="nav-link" href="#teaching-experience">Teaching Experience</a>
   <a class="nav-link" href="#leadership-experience">Leadership Experience</a>
   <a class="nav-link" href="#volunteer-experience">Volunteer Experience</a>
-  <a class="nav-link" href="#Volunteer Experience">Volunteer Experience</a>
+  <a class="nav-link" href="#community-outreach-experience">Community Outreach Experience</a>
   <a class="nav-link" href="#awards-and-honors">Awards and Honors</a>
   <a class="nav-link" href="#publications">Publications</a>
 </nav>
-
----
-## About Me
-
-<div class="about-me-card">
-  <div class="about-me-card-body">
-    <h4 class="about-me-card-title">Hello, I'm Jason!</h4>
-    <p class="about-me-card-text">
-      I am currently a Bioinformatics Analyst at the Integrative Cardiovascular Metabolism and Pathophysiology (iCaMP) Laboratory at Boston University. My work focuses on mitochondrial genetics and cardiovascular disease, leveraging bioinformatics tools to analyze data from large cohorts like the Framingham Heart Study and UK Biobank.
-      <br><br>
-      Before this role, I was a Post-Baccalaureate IRTA Research Fellow at the National Heart, Lung, and Blood Institute. There, I contributed to studies on platelet reactivity and arterial stiffness measures, along with a Transcriptome-Wide Association Study on heavy menstrual bleeding.
-      <br><br>
-      Beyond my professional work, I am passionate about water quality monitoring and watershed conservation. I volunteer with OARS, an organization dedicated to protecting and monitoring rivers in Massachusetts, where I gained hands-on experience in water quality monitoring techniques.
-      <br><br>
-      My goal is to apply computational tools not only to human health but also to environmental sustainability.
-    </p>
-  </div>
-</div>
 
 ---
 
@@ -87,7 +68,6 @@ order: 1
 
 <div class="research-experience-card">
   <div class="research-experience-card-body">
-    <h4 class="research-experience-card-title">Research Experience</h4>
     <div class="research-experience">
       <h5>Integrative Cardiovascular Metabolism and Pathophysiology (iCaMP) Laboratory</h5>
       <p><strong>Boston University Chobanian & Avedisian School of Medicine</strong> | Data Analyst II | January 2024-Present</p>
@@ -116,7 +96,6 @@ order: 1
 
 <div class="teaching-experience-card">
   <div class="teaching-experience-card-body">
-    <h4 class="teaching-experience-card-title">Teaching Experience</h4>
     <h5>Laboratory Teacher’s Assistant</h5>
     <p><strong>College of the Holy Cross, Worcester, MA</strong> | January 2020-May 2021</p>
     <ul>
@@ -139,7 +118,6 @@ order: 1
 
 <div class="leadership-experience-card">
   <div class="leadership-experience-card-body">
-    <h4 class="leadership-experience-card-title">Leadership Experience</h4>
     <h5>National Institutes of Health, Remote </h5>
     <p><strong>Science, Technology, and Society Interest Group, Co-Leader</strong> | August 2022-July 2023</p>
     <ul>
@@ -158,10 +136,9 @@ order: 1
 
 ---
 
+## Community Outreach Experience
+
 <div class="community-outreach-card">
-  <div class="community-outreach-card-header">
-    <h3>Community Outreach Experience</h3>
-  </div>
   <div class="community-outreach-card-body">
     <h5>College of the Holy Cross, Worcester, MA</h5>
     <p><strong>Students for Responsible Choices, Member</strong>, October 2019-May 2021</p>
@@ -181,10 +158,8 @@ order: 1
 
 <hr>
 
+## Volunteer Experience
 <div class="volunteer-experience-card">
-  <div class="volunteer-experience-card-header">
-    <h3>Volunteer Experience</h3>
-  </div>
   <div class="volunteer-experience-card-body">
     <h5>OARS - For the Sudbury, Assabet, and Concord Rivers, Concord, MA</h5>
     <p><strong>Water Quality Monitoring Volunteer</strong>, September 2022-Present</p>
@@ -197,10 +172,8 @@ order: 1
 
 <hr>
 
+## Awards and Honors
 <div class="awards-honors-card">
-  <div class="awards-honors-card-header">
-    <h3>Awards and Honors</h3>
-  </div>
   <div class="awards-honors-card-body">
     <h5>College of the Holy Cross, Worcester, MA</h5>
     <ul>
@@ -211,10 +184,8 @@ order: 1
 
 <hr>
 
+## Publications
 <div class="publications-card">
-  <div class="publications-card-header">
-    <h3>Publications</h3>
-  </div>
   <div class="publications-card-body">
     <p><strong>ORCID:</strong> <a href="https://orcid.org/0009-0005-7909-8809" target="_blank">0009-0005-7909-8809</a></p>
     
