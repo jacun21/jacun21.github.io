@@ -24,7 +24,7 @@ Here are some of the projects I have worked on. Feel free to explore them!
 <div class="mitoproximal-db-card">
   <div class="mitoproximal-db-card-body">
     <h4 class="mitoproximal-db-card-title">Mitoproximal Proteins Database</h4>
-    <img src="{{ site.baseurl }}/assets/img/icamp-lab-logo.png">
+    <img src="{{site.baseurl}}/assets/img/icamp-lab-logo.png">
     <p class="mitoproximal-db-card-text">
       A web application and MySQL database featuring proteins associated with mitochondrial function, identified using bioinformatics techniques by Leyfer and Fetterman
       <a href="https://doi.org/10.1093/nargab/lqad107" target="_blank">(NAR Genomics and Bioinformatics, 2023)</a>. 
@@ -51,7 +51,7 @@ Here are some of the projects I have worked on. Feel free to explore them!
 <div class="rosalind-card">
   <div class="rosalind-card-body">
     <h4 class="rosalind-card-title">Rosalind Bioinformatics Challenges</h4>
-    <img src="{{ site.baseurl }}/assets/img/rosalind-logo.png">
+    <img src="{{site.baseurl}}/assets/img/rosalind-logo.png">
     <p class="rosalind-card-text">
       A series of bioinformatics challenges completed through the Rosalind platform, focusing on real-world problems like sequence alignment and genome assembly using Python. Completed for extra credit as part of the Applications in Bioinformatics (BF527, Fall 2023) course at Boston University, taught by Dr. Dmitri Leyfer. 
     </p>
@@ -74,7 +74,7 @@ Here are some of the projects I have worked on. Feel free to explore them!
 <div class="ma-ej-wq-card">
   <div class="ma-ej-wq-card-body">
     <h4 class="ma-ej-wq-card-title">An Exploration of Water Quality Metrics in and Around Environmental Justice Neighborhoods in Massachusetts</h4>
-    <img src="{{ site.baseurl }}/assets/img/ma-wq-ej-map.jpg">
+    <img src="{{site.baseurl}}/assets/img/ma-wq-ej-map.jpg">
     <p class="ma-ej-wq-card-text">
     This project analyzes water quality metrics (dissolved oxygen, water temperature, specific conductance, and pH) near Environmental Justice (EJ) neighborhoods in Massachusetts. Using a GIS pipeline, water quality data from up to 1,086 sampling sites was compared with demographic data, focusing on the proximity to EJ neighborhoods. Generalized linear mixed models identified significant associations between water quality variables and proximity to EJ neighborhoods, including links between specific conductance and the percent minority population in these areas. 
     <br>
